@@ -1,0 +1,13 @@
+a{
+    color: rgb(153, 46, 182);
+    font-size: 20px;
+}
+
+a:hover{
+    color: azure;
+}
+.active{
+    color: azure;
+    text-decoration: underline;
+
+}
